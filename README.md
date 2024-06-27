@@ -6,15 +6,14 @@
 
 
 
-📝 Sophomore pursuing Electronics and Communication Engineering from VIT, Vellore .
+📝 Final year Electronics and Communication Engineering student from VIT, Vellore .
 
-💻 I'm Interested in Competitive Programming and Web development.
+💻 I'm Interested in Competitive Programming, AI ML and Web development.
 
 🤝 Looking to collaborate on open source projects and hackathons.
 
 👋 Checkout my portfolio - 
 
-👀 Checkout my Codechef profile - https://www.codechef.com/users/its_sreeni
 
 ✅ Checkout my Leetcode Profile - https://leetcode.com/Sreenivasan2002/
 
